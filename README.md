@@ -23,7 +23,7 @@ Finalmente se analizó la correlación entre los retornos de los tres commoditie
 #### Análisis de evolución de precios
 Se analizó la evolución histórica de los precios de cierre de los tres commodities durante el período 2005-2025, mediante gráficos de series temporales. El análisis permite identificar tres ciclos alcistas diferenciados a lo largo del período. 
 
-![](Graficos/closeanual.png)
+![](Graficos/close-anual.png)
 
 El primero en 2007-2008, impulsado por la crisis alimentaria global. El segundo en 2010-2013, marcado por sequías severas en las principales zonas productoras. El tercero en 2021-2022, combinando la reactivación post pandemia y el shock de oferta generado por la guerra en Ucrania.
 
