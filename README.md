@@ -120,7 +120,8 @@ Para este análisis no se compararon los precios directamente sino las variacion
 
 La escala va de -1 a 1, donde valores cercanos a 1 indican que los commodities se mueven en la misma dirección, valores cercanos a 0 indican ausencia de relación y valores cercanos a -1 indican movimientos opuestos.
 
-![[correlacion_commodities.png]]
+![](correlacion_commodities.png)
+
 
 Los resultados de la tabla muestran correlaciones bajas y positivas entre los tres pares. El maiz contra la soja registró la correlación más alta con 0.28. Maiz contra trigo mostró 0.23, compartiendo factores climáticos y de demanda global. Soja vs trigo resultó la más baja con 0.15, la soja responde principalmente a la demanda de China mientras que el trigo es más sensible a factores geopolíticos como el conflicto en Rusia y Ucrania.
 
